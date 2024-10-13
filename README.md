@@ -3,6 +3,7 @@
 ## School Distric Analysis
 
 In this project for the Analysis of the School distric was generete a script code in the Jupyter notebook program to Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame, this script includes the following information:
+### Report descripton of the observable trends based on the data.
 
 ### District Summary:
 - Total number of unique schools.
